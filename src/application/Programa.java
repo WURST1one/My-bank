@@ -7,10 +7,17 @@ public class Programa {
 
 		
 	conta minhaConta = new conta();
+	conta meuSonho = new conta();
 	
 	minhaConta.titular = "Henrique Marchini";
 	minhaConta.numero = 40028922;
 	minhaConta.saldo = 2500;
+	
+	minhaConta.titular = "Cley Cley";
+	minhaConta.numero = 22892004;
+	minhaConta.saldo = 25000000.95;
+	
+	
 	
 
 	
